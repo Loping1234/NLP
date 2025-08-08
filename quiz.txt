@@ -1,0 +1,29 @@
+Q1 [mcq | hard]: What is 'learning'?
+  a) unsupervised
+  b) learning
+  c) finds
+  d) Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn from data.
+Answer: Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn from data.
+Explanation: Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn from data.
+
+Q2 [mcq | medium]: What is 'unsupervised'?
+  a) patterns
+  b) finds
+  c) unsupervised
+  d) learning
+Answer: unsupervised
+Explanation: Unsupervised learning finds patterns.
+
+Q3 [true_false | hard]: Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn from data.
+  a) True
+  b) False
+Answer: True
+Explanation: Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn from data.
+
+Q4 [fill_blank | hard]: Machine _____ is a subset of artificial intelligence that focuses on algorithms that can learn from data.
+Answer: learning
+Explanation: Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn from data.
+
+Q5 [short_answer | hard]: Explain 'learning' in one or two sentences.
+Answer: Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn from data.
+Explanation: Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn from data.
