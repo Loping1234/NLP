@@ -1,0 +1,1 @@
+This file exists to ensure the `quizgen` directory is recognized by tooling.
